@@ -29,5 +29,5 @@ function ordinal() {
 
 	}
 
-	console.log(number_str + suffix);
+	alert(number_str + suffix);
 }
