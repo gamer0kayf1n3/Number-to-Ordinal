@@ -1,1 +1,1 @@
-function ordinal(){var n=prompt("Ordinal of?"),t=String(n),n=t.split(""),n=1!=n.length&&"1"==n[n.length-2]?"th":"1"==n[n.length-1]?"st":"2"==n[n.length-1]?"nd":"3"==n[n.length-1]?"rd":"th";console.log(t+n)}
+function ordinal(){var n=prompt("Ordinal of?"),t=String(n),n=t.split(""),n=1!=n.length&&"1"==n[n.length-2]?"th":"1"==n[n.length-1]?"st":"2"==n[n.length-1]?"nd":"3"==n[n.length-1]?"rd":"th";alert(t+n)}
