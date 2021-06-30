@@ -1,7 +1,7 @@
 # Number-to-Ordinal
 Hey! This repository is for skill testing purposes only. If you'd like to use the code, I'm fine with it. 
 
-This Repository includes:
+###### This Repository includes:
 * Python version of Ordinals
   * compressed
   * uncompressed
